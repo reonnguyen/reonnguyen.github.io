@@ -1,0 +1,5 @@
+---
+title: "About me"
+---
+
+Hi! My name is Reon Nguyen. I’m a Finance student at the University of Alberta with a Computing Science minor. I grew up in a family business where ideas only mattered if they actually worked. That experience pushed me toward a practical, hands-on approach to finance and problem-solving, especially in a small, fast-moving team. I’m especially interested in roles where analytical thinking connects directly to real business decisions and visible impact.
